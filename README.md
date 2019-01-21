@@ -1,1 +1,1 @@
-# array_start
+Tạo và thao tác với mảng
